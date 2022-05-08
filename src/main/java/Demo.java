@@ -1,10 +1,9 @@
+import java.util.LinkedList;
+import java.util.List;
+
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("masert 666");
-        System.out.println("masert 666");
-        System.out.println("masert 666");
-        System.out.println("masert 666");
-        System.out.println("masert 666");
+        List list=new LinkedList();
     }
 }
