@@ -2,5 +2,9 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("masert 666");
+        System.out.println("masert 666");
+        System.out.println("masert 666");
+        System.out.println("masert 666");
+        System.out.println("masert 666");
     }
 }
