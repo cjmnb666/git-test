@@ -10,5 +10,6 @@ public class Demo {
           Scanner input=new Scanner(System.in);
           Scanner input1=new Scanner(System.in);
         List list=new LinkedList();
+    System.out.println("666");
     }
 }
